@@ -1,0 +1,12 @@
+Application 3 report.txt
+
+Runtimes
+createDataSet O(1)
+destroyDataSet O(n)
+searchAge O(n)
+searchID O(n)
+insertion O(1)
+deletion O(n)
+maxAgeGap O(1)
+
+A circularly doubly linked list provided fast insertion and age gap calculations at the cost of search operations. A well fitting data structure based on what the lab manual asks for. 

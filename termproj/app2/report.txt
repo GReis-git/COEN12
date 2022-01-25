@@ -1,0 +1,11 @@
+Application 2 report.txt
+
+Runtimes
+createDataSet O(n)
+destroyDataSet O(1)
+addID O(1)
+removeID O(1)
+searchID O(1)
+findID O(1)
+
+Using a hash table enabled me to have fast frequent searches, insertions, and deletions all with constant runtime. No other datatype we covered in this class can perform every necessary function with O(1) runtime.
