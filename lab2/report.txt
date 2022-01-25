@@ -1,0 +1,15 @@
+// Gordon Reis, coen12 lab02 report.txt
+// Organized as (Run1,Run2,Run3,Average).
+// All runs completed on Mac computer in the lab room
+
+Text File:                   | Unique-Unsorted:              | Parity-Unsorted:              | Unique-Sorted:                | Parity-Sorted:                |
+Bible.txt                    | (5.165s,5.205s,5.225s,5.198s) | (60.86s,60.81s,60.63s,60.77s) | (0.467s,0.463s,0.463s,0.464s) | (5.784s,5.793s,5.786s,5.788s) |
+Genesis.txt                  | (0.111s,0.110s,0.110s,0.110s) | (0.417s,0.416s,0.414s,0.416s) | (0.028s,0.026s,0.025s,0.026s) | (0.087s,0.087s,0.087s,0.087s) |
+GreenEggsAndHam.txt          | (0.009s,0.008s,0.008s,0.008s) | (0.007s,0.007s,0.007s,0.007s) | (0.006s,0.006s,0.007s,0.006s) | (0.007s,0.007s,0.006s,0.007s) |
+HoundOfTheBaskervilles.txt.  | (0.329s,0.342s,0.327s,0.333s) | (1.741s,1.775s,1.752s,1.756s) | (0.058s,0.058s,0.058s,0.058s) | (0.304s,0.304s,0.304s,0.304s) |
+Macbeth.txt                  | (0.108s,0.107s,0.107s,0.107s) | (0.336s,0.333s,0.332s,0.334s) | (0.027s,0.027s,0.027s,0.027s) | (0.076s,0.077s,0.076s,0.076s) |
+TheCountOfMonteCristo.txt    | (4.817s,4.779s,4.837s,4.881s) | (53.69s,53.63s,53.82s,53.71s) | (0.479s,0.477s,0.478s,0.478s) | (5.939s,5.964s,6.039s,5.981s) |
+TheSecretGarden.txt          | (0.363s,0.361s,0.363s,0.362s) | (1.903s,1.912s,1.909s,1.908s) | (0.062s,0.061s,0.061s,0.061s) | (0.369s,0.368s,0.368s,0.368s) |
+TheWarOfTheWorlds.txt        | (0.446s,0.443s,0.441s,0.443s) | (2.100s,2.102s,2.125s,2.109s) | (0.078s,0.078s,0.078s,0.078s) | (0.358s,0.359s,0.358s,0.358s) |
+TreasureIsland.txt           | (0.395s,0.393s,0.393s,0.394s) | (2.196s,2.146s,2.209s,2.184s) | (0.070s,0.070s,0.070s,0.070s) | (0.371s,0.369s,0.369s,0.370s) |
+TwentyThousandLeagues.txt    | (0.919s,0.891s,0.889s,0.900s) | (5.483s,5.453s,5.545s,5.494s) | (0.124s,0.123s,0.124s,0.124s) | (0.748s,0.745s,0.748s,0.747s) |

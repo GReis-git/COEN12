@@ -1,0 +1,17 @@
+// Gordon Reis, coen12 lab02 report.txt
+// Organized as (Run1,Run2,Run3,Average).
+// All runs completed on Mac computer in the lab room (Generic-Unique done via ssh to linux)
+// all times recorded via terminal "time" command, ~5ms "lost" from from latency on all times
+
+Text File:                   | Strings-Unique:               | Strings-Parity:               | Generic-Counts:               | Generic-Parity:               | Generic-Unique:               |
+                             |  Trial1,Trial2,Trial3, Avg    |  Trial1,Trial2,Trial3, Avg    |  Trial1,Trial2,Trial3, Avg    |  Trial1,Trial2,Trial3, Avg    |  Trial1,Trial2,Trial3, Avg    |  
+Bible.txt                    | (0.107s,0.107s,0.114s,0.109s) | (0.223s,0.223s,0.228s,0.225s) | (0.172s,0.169s,0.169s,0.170s) | (0.234s,0.234s,0.237s,0.235s) | (0.139s,0.142s,0.141s,0.141s) |
+Genesis.txt                  | (0.012s,0.012s,0.012s,0.012s) | (0.016s,0.016s,0.015s,0.016s) | (0.023s,0.021s,0.021s,0.022s) | (0.016s,0.016s,0.018s,0.017s) | (0.011s,0.011s,0.011s,0.011s) |
+GreenEggsAndHam.txt          | (0.006s,0.007s,0.006s,0.006s) | (0.007s,0.007s,0.009s,0.008s) | (0.008s,0.009s,0.007s,0.008s) | (0.010s,0.009s,0.008s,0.009s) | (0.003s,0.003s,0.002s,0.003s) |
+HoundOfTheBaskervilles.txt.  | (0.023s,0.016s,0.016s,0.018s) | (0.022s,0.021s,0.022s,0.022s) | (0.037s,0.037s,0.037s,0.037s) | (0.023s,0.023s,0.023s,0.023s) | (0.018s,0.018s,0.019s,0.018s) |
+Macbeth.txt                  | (0.010s,0.010s,0.010s,0.010s) | (0.012s,0.012s,0.011s,0.012s) | (0.023s,0.024s,0.024s,0.024s) | (0.012s,0.012s,0.012s,0.012s) | (0.006s,0.007s,0.007s,0.007s) |
+TheCountOfMonteCristo.txt    | (0.079s,0.084s,0.078s,0.080s) | (0.172s,0.173s,0.171s,0.172s) | (0.155s,0.155s,0.153s,0.154s) | (0.174s,0.174s,0.172s,0.173s) | (0.114s,0.117s,0.119s,0.117s) |
+TheSecretGarden.txt          | (0.020s,0.019s,0.018s,0.019s) | (0.027s,0.026s,0.027s,0.027s) | (0.037s,0.037s,0.038s,0.037s) | (0.028s,0.028s,0.028s,0.028s) | (0.023s,0.022s,0.023s,0.023s) |
+TheWarOfTheWorlds.txt        | (0.016s,0.016s,0.020s,0.017s) | (0.023s,0.022s,0.022s,0.022s) | (0.041s,0.044s,0.044s,0.043s) | (0.024s,0.023s,0.024s,0.024s) | (0.018s,0.016s,0.017s,0.017s) |
+TreasureIsland.txt           | (0.016s,0.016s,0.018s,0.017s) | (0.023s,0.025s,0.024s,0.024s) | (0.039s,0.040s,0.040s,0.040s) | (0.025s,0.026s,0.025s,0.025s) | (0.018s,0.020s,0.019s,0.019s) |
+TwentyThousandLeagues.txt    | (0.026s,0.023s,0.022s,0.024s) | (0.037s,0.035s,0.034s,0.035s) | (0.059s,0.058s,0.057s,0.058s) | (0.037s,0.036s,0.037s,0.037s) | (0.029s,0.031s,0.031s,0.030s) |
